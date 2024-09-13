@@ -1,0 +1,59 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .navbar-brand img {
+    width: 65%;
+  }
+  .navbtn {
+    padding: 10px 10px;
+    margin-top: 10px;
+  }
+  .nav-menu {
+    font-size: 25px;
+  }
+  #banner h1 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  #banner p {
+    width: auto;
+    margin-top: 20px;
+  }
+  #banner button {
+    margin-top: 20px;
+  }
+  .banner_img {
+    width: 100%;
+    margin-bottom: 35px;
+  }
+  #banner {
+    padding: 100px 0;
+  }
+  .title {
+    text-align: left;
+  }
+  .title p {
+    width: auto;
+  }
+  #service .card {
+    padding: 0;
+  }
+  #about .title h2 {
+    width: auto;
+  }
+  #about .items {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  #about .items p {
+    width: auto;
+  }
+  #news .news_items .news_pic {
+    padding-top: 17px;
+    width: 90%;
+  }
+  .details {
+    padding-left: 20px;
+  }
+  #news .news_items p {
+    width: auto;
+  }
+}
